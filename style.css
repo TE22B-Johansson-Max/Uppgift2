@@ -1,0 +1,50 @@
+body{
+    padding-left: 50px;
+    padding-right: 50px;
+    display: flex;
+    flex-direction: column;
+}
+div{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border: 2.5px solid;
+}
+.låda1{
+    border-color: red;
+    height: 90px;
+    
+}
+.låda2{
+    border-color: orange;
+    height: 200px;
+}
+.låda3{
+    border-color: yellow;
+}
+
+.banan{
+    background-color: aqua;
+    border: 2px solid black;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+
+a{
+    font-family: monospace;
+    font-size: 20px;
+}
+
+.text2{
+    background-color: lightpink;
+    padding-left: 248px;
+    padding-right: 248px;
+    
+}
+.text1{
+    background-color: yellow;
+    padding-right: 248px;
+    padding-left: 248px;
+    
+}
